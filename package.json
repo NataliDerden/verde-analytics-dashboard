@@ -1,0 +1,12 @@
+{
+  "name": "verde-analytics-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Внутренний дашборд аналитики Verde: рассылки, сайт, Академия, спрос",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
